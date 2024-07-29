@@ -1,0 +1,9 @@
+backend/
+|-- models/
+|   |-- User.js
+|   |-- Product.js
+|-- routes/
+|   |-- auth.js
+|   |-- products.js
+|   |-- cart.js
+|-- server.js
