@@ -1,0 +1,16 @@
+src/
+|-- components/
+|   |-- Auth/
+|   |   |-- Login.js
+|   |   |-- Register.js
+|   |-- Product/
+|   |   |-- ProductList.js
+|   |   |-- ProductItem.js
+|   |-- Cart/
+|   |   |-- Cart.js
+|-- services/
+|   |-- authService.js
+|   |-- productService.js
+|-- App.js
+|-- index.js
+|-- App.css
